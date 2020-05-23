@@ -378,8 +378,8 @@
 }
 #u480 {
   position:absolute;
-  left:299px;
-  top:244px;
+  left:401px;
+  top:150px;
   width:239px;
   height:19px;
   font-family:'Arial Negreta', 'Arial';
@@ -398,92 +398,65 @@
 }
 #u482_img {
   position:absolute;
-  left:0px;
-  top:0px;
-  width:239px;
-  height:19px;
-}
-#u482 {
-  position:absolute;
-  left:401px;
-  top:150px;
-  width:239px;
-  height:19px;
-  font-family:'Arial Negreta', 'Arial';
-  font-weight:700;
-  font-style:normal;
-  font-size:16px;
-  text-decoration:underline;
-  color:#009900;
-}
-#u483 {
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:239px;
-  word-wrap:break-word;
-}
-#u484_img {
-  position:absolute;
   left:-1px;
   top:-10px;
   width:59px;
   height:22px;
 }
-#u484p000 {
+#u482p000 {
   position:absolute;
   left:-1px;
   top:0px;
   width:50px;
   height:2px;
 }
-#u484p000_img {
+#u482p000_img {
   position:absolute;
   left:-1px;
   top:-10px;
   width:61px;
   height:22px;
 }
-#u484p001 {
+#u482p001 {
   position:absolute;
   left:-1px;
   top:0px;
   width:2px;
   height:2px;
 }
-#u484p001_img {
+#u482p001_img {
   position:absolute;
   left:-1px;
   top:-10px;
   width:13px;
   height:22px;
 }
-#u484p002 {
+#u482p002 {
   position:absolute;
   left:32px;
   top:-10px;
   width:22px;
   height:22px;
 }
-#u484p002_img {
+#u482p002_img {
   position:absolute;
   left:-1px;
   top:-10px;
   width:33px;
   height:42px;
 }
-#u484.compound {
+#u482.compound {
   width:0px;
   height:0px;
 }
-#u484 {
+#u482 {
   position:absolute;
   left:343px;
   top:160px;
   width:48px;
   height:2px;
 }
-#u485 {
+#u483 {
   position:absolute;
   left:2px;
   top:-7px;
@@ -491,7 +464,7 @@
   visibility:hidden;
   word-wrap:break-word;
 }
-#u486_div {
+#u484_div {
   position:absolute;
   left:0px;
   top:0px;
@@ -505,14 +478,14 @@
   -webkit-box-shadow:5px 5px 5px rgba(0, 0, 0, 0.2);
   box-shadow:5px 5px 5px rgba(0, 0, 0, 0.2);
 }
-#u486 {
+#u484 {
   position:absolute;
   left:83px;
   top:286px;
   width:155px;
   height:30px;
 }
-#u487 {
+#u485 {
   position:absolute;
   left:10px;
   top:10px;
